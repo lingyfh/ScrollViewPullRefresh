@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BA36107A-A8CD-4DD7-B157-CDB4582DF014</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ScrollViewPullrefresh</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75FE8989-2A16-4FC5-BF51-B5ABAAF41886</key>
+		<string>http://svn.apache.org/repos/asf/tomcat/tc7.0.x/tags/TOMCAT_7_0_27</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScrollViewPullrefresh/ScrollViewPullrefresh.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75FE8989-2A16-4FC5-BF51-B5ABAAF41886</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>75FE8989-2A16-4FC5-BF51-B5ABAAF41886</key>
+		<string>http://svn.apache.org/repos/asf</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.apache.org/repos/asf/tomcat/tc7.0.x/tags/TOMCAT_7_0_27/ScrollViewPullrefresh/ScrollViewPullrefresh.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75FE8989-2A16-4FC5-BF51-B5ABAAF41886</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>tomcat/tc7.0.x/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tomcat/tc7.0.x/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>tomcat/tc7.0.x/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75FE8989-2A16-4FC5-BF51-B5ABAAF41886</string>
+			<key>IDESourceControlWCCName</key>
+			<string>workspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>
